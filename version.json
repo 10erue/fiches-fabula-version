@@ -1,5 +1,6 @@
 {
-  "version": 10,
-  "apk": "https://github.com/10erue/fiches-fabula-version/releases/download/apk/fiches-fabula-10.apk",
-  "date": "2026-11-20T13:40:05Z"
+  "version": 13,
+  "nom": "0.1.0",
+  "apk": "https://github.com/10erue/fiches-fabula-version/releases/download/v0.1.0/fiches-fabula-0.1.0.apk",
+  "date": "2026-11-20T13:45:47Z"
 }
